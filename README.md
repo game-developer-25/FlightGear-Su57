@@ -1,4 +1,4 @@
-# FlightGear-Su57
+# Su-57 for FlightGear
 
 **Work In Progress – Not Ready for Use**
 
